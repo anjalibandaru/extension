@@ -1,0 +1,69 @@
+.navbar-brand,.navbar-nav>li>a , .dropdown-menu>li>a{
+  	font-weight:500;
+  	color:#563d7c;
+  }
+  .masthead,.db-hash-header , .align-center .btn{
+  	background-color:#6f5499;
+  
+  }
+  .masthead .ilead{
+  	margin-top:50px;
+  	
+  }
+  .masthead .blead,.align-center{
+  	color:#fff;
+  	font-size:24px;
+  	text-align:center;
+  	margin-top:30px;
+  	margin-bottom:30px;
+  }
+  .masthead .slead{
+  	color:#fff;
+  	font-size:15px;
+  	text-align:center;
+  }
+ 
+  	.masthead .btn,.align-center .btn{
+  		padding-top:15px;
+  		padding-right:30px;
+  		padding-bottom:15px;
+  		padding-left:30px;
+  		font-size:20px;
+  	}
+    .btn-outline-inverse{
+    	color:#fff;
+    	background-color:transparent;
+    	border-color:#cdbfe3;
+    }
+    
+    .btn{
+      color:#fff;
+    	display:inline-block;
+    	font-weight:400;
+    	text-align:center;
+    	vertical-align:middle;
+    	white-space:nowrap;
+    	cursor:pointer;
+    	border:1px solid #fff;
+    }
+    
+  	.contactus:hover,.createticket:hover{
+  		background-color:#fff;
+  		color:#563d7c;
+  	}
+    
+.db-hash-header h1{
+  color:#fff;
+  font-size:30px;
+  margin-bottom: 10px;
+  display:block;
+}  
+p,.db-hash-content{
+  dispaly:block;
+  margin-top:50px;
+  margin-left:150px;
+  margin-right:100px;
+  font-size:18px;
+  font-family:Helvetica;
+
+}
